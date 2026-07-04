@@ -844,5 +844,3 @@ It covers:
 - Business-focused interpretation of machine health and maintenance risk
 
 The project shows how industrial sensor data can be converted into actionable maintenance intelligence to support earlier failure detection, reduced downtime, and better operational decision-making.
-
-Commit changes
