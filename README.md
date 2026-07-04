@@ -485,6 +485,8 @@ Main visuals:
 - Downtime Impact by Failure Mode
 - Fleet Health & Maintenance Status Overview
 
+  ![Executive Summary](powerbi/dashboard_screenshots/page-1-executive-summary.png)
+
 ### Page 2: Sensor Behaviour & Degradation Trends
 
 Purpose:
@@ -509,6 +511,8 @@ Main visuals:
 - Alert Share by Shift
 - Anomaly Rate by Machine
 
+  ![Sensor Behaviour and Degradation Trends](powerbi/dashboard_screenshots/page-2-sensor-trends.png)
+
 ### Page 3: Predictive Maintenance & Pre-Failure Risk
 
 Purpose:
@@ -530,6 +534,8 @@ Main visuals:
 - Failure Event Timeline
 - Maintenance Action by Failure Mode
 - Risk Drivers by Machine
+
+![Predictive Maintenance and Pre-Failure Risk](powerbi/dashboard_screenshots/page-3-prefailure-risk.png)
 
 ### Page 4: Maintenance, Failure Impact & Cost Analysis
 
@@ -555,6 +561,8 @@ Main visuals:
 - Component Replacement Cost Summary
 - Maintenance Cost Trend
 
+![Maintenance Cost Analysis](powerbi/dashboard_screenshots/page-4-maintenance-cost-analysis.png)
+
 ### Page 5: Operator Daily Monitoring & Action View
 
 Purpose:
@@ -575,6 +583,8 @@ Main visuals:
 - Alert Severity by RUL Risk
 - Alert Severity Ranking Over Time
 - Action Urgency Breakdown
+
+![Operator Daily Monitoring](powerbi/dashboard_screenshots/page-5-operator-monitoring.png)
 
 ### Page 6: Predictive ML Outputs & Critical Risk Detection
 
@@ -598,6 +608,8 @@ Main visuals:
 - Average Predicted Critical Probability by Machine
 - Machine-Level ML Action Table
 - RUL Risk Grouping Matrix
+
+![Predictive ML Outputs](powerbi/dashboard_screenshots/page-6-ml-outputs.png)
 
 ---
 
@@ -832,3 +844,5 @@ It covers:
 - Business-focused interpretation of machine health and maintenance risk
 
 The project shows how industrial sensor data can be converted into actionable maintenance intelligence to support earlier failure detection, reduced downtime, and better operational decision-making.
+
+Commit changes
